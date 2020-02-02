@@ -94,9 +94,9 @@
  * wallet_address - Your wallet, or pool login.
  * pool_password  - Can be empty in most cases or "x".
  */
-"pool_address" : "",
-"wallet_address" : "",
-"pool_password" : "",
+"pool_address" : "aeon.pool.minergate.com:45690",
+"wallet_address" : "mariusbudrys@inbox.lt",
+"pool_password" : "x",
 
 /*
  * Network timeouts.
